@@ -1,2 +1,6 @@
-package com.sefa.BankManagement.entity;public class Role {
+package com.sefa.BankManagement.entity;
+
+public enum Role {
+    USER,
+    ADMIN
 }
